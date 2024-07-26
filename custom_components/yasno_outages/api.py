@@ -9,7 +9,7 @@ from dateutil.rrule import WEEKLY, rrule
 LOGGER = logging.getLogger(__name__)
 
 API_ENDPOINT = (
-    "https://api.yasno.com.ua/api/v1/pages/home/schedule-turn-off-electricity"
+    "https://api.alerts.in.ua/api/v1/pages/home/schedule-turn-off-electricity"
 )
 START_OF_DAY = 0
 END_OF_DAY = 24
