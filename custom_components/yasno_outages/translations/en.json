@@ -42,7 +42,8 @@
     "city": {
       "options": {
         "kiev": "Kyiv",
-        "dnipro": "Dnipro"
+        "dnipro": "Dnipro",
+        "lviv": "Lviv"
       }
     },
     "group": {
@@ -59,6 +60,12 @@
         "10": "Group 10",
         "11": "Group 11",
         "12": "Group 12"
+        "1_1": "Group 1.1",
+        "1_2": "Group 1.2",
+        "2_1": "Group 2.1",
+        "2_2": "Group 2.2",
+        "3_1": "Group 3.1",
+        "3_2": "Group 3.2"
       }
     }
   },
